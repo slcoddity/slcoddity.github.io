@@ -1,5 +1,5 @@
 ---
 layout: default
-title: "About"
+title: "About1"
 ---
 myname@email.com
