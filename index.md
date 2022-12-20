@@ -4,3 +4,4 @@ title: "Home"
 ---
 
 
+{% include archive.html title="Posts" %}
