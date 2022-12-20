@@ -1,5 +1,5 @@
 ---
-layour: default
+layout: default
 title: "Home"
 ---
 Hello Hello
