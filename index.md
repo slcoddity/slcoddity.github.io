@@ -2,6 +2,4 @@
 layout: default
 title: "Home"
 ---
-
-
-{% include archive.html title="Posts" %}
+{% include home.html %}
