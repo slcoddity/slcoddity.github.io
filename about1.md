@@ -2,4 +2,6 @@
 layout: page
 title: "About1"
 ---
-myname@email.com
+
+## Email:
+ - myname@email.com
