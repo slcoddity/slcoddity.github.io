@@ -9,7 +9,7 @@ curves for roads, and it will output the following assets:
   - point cloud of road crack decals (cracks, potholes, etc...)
   - traffic control data (rules for roads and intersections)
 
-![screenshot](https://github.com/slcoddity/slcoddity.github.io/blob/08a0564e08299b0ba3fc3b35349f15413671105b/assets/Screenshot%202022-12-21%20111310.png)
+![screenshot](assets/Screenshot 2022-12-21 111310.png)
 
 
 ##
