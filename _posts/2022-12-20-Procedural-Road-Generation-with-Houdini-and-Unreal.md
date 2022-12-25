@@ -21,7 +21,10 @@ Some screen shots of the results:
 ![screenshot](https://github.com/slcoddity/slcoddity.github.io/blob/master/assets/Screenshot%202022-12-25%20204437.png?raw=true)
 ![screenshot](https://github.com/slcoddity/slcoddity.github.io/blob/master/assets/Screenshot%202022-12-25%20205234.png?raw=true)
 
+
 ## Base Shape
+I wanted to build the road in a way that could represent the real construction process, so the first step would be building the base of the road, which is done on the terrain. Basically we want to smooth out the ground where the road will be, and make the base slightly higher in the middle. We do this by generating a road base polygon and mapping its shape onto the terrain. Here I have attached the steps of how the polygon is generated from a curve.         
+
 
 ## Roads
 
